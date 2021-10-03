@@ -1,0 +1,28 @@
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\bin\Debug\İlk_Projem12.exe.config
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\bin\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\bin\Debug\İlk_Projem12.pdb
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\obj\Debug\İlk_Projem12.csprojAssemblyReference.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\obj\Debug\İlk_Projem12.csproj.CoreCompileInputs.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\obj\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12\İlk_Projem12\obj\Debug\İlk_Projem12.pdb
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.exe.config
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.pdb
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.csprojAssemblyReference.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.csproj.CoreCompileInputs.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.pdb
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\bin\Debug\İlk_Projem12.exe.config
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\bin\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\bin\Debug\İlk_Projem12.pdb
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\obj\Debug\İlk_Projem12.csprojAssemblyReference.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\obj\Debug\İlk_Projem12.csproj.CoreCompileInputs.cache
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\obj\Debug\İlk_Projem12.exe
+C:\Users\musa\Desktop\PROJELERİM\İlk_Projem12(VKİ HSP. V2 .)-bozuk-\İlk_Projem12\obj\Debug\İlk_Projem12.pdb
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.exe.config
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.exe
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\bin\Debug\İlk_Projem12.pdb
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.csproj.AssemblyReference.cache
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.csproj.CoreCompileInputs.cache
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.exe
+C:\Users\Musa Yılmaz\Desktop\C# Projeler\İlk_Projem12(VKİ HSP. V2 .)\İlk_Projem12\obj\Debug\İlk_Projem12.pdb
